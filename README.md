@@ -36,7 +36,7 @@ def gcd():
 
 ## Output:![gcd](https://github.com/rsubash17/GCD-of-two-numbers/assets/147139828/5598591e-cb84-4e58-b16c-851bf0d1b5dd)
 
-![gcd of two number](gcd.png)
+
 
 
 ## Result:
